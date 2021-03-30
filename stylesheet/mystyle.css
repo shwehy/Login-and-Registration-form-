@@ -1,0 +1,86 @@
+h1{
+    font-size: 55px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: royalblue;
+    text-shadow: 4px 4px 1px black;
+}
+h2{
+    font-size: 55px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: royalblue;
+    text-shadow: 4px 4px 1px black;
+}
+#titleForm{
+    font-size: 55px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: indianred;
+    text-shadow: 4px 4px 1px black;
+}
+body{
+
+    background-color:beige;
+
+}
+#submitB{
+      transition-duration: 0.4s;
+    background-color: transparent;
+    color: black;
+    border: 2px solid cadetblue; /* Green */
+    padding: 12px 28px;
+
+}
+#submitB:hover{
+ background-color: cadetblue; /* Green */
+  color: black;
+}
+#submitA{
+      transition-duration: 0.4s;
+    background-color: transparent;
+    color: black;
+    border: 2px solid cadetblue; /* Green */
+    padding: 12px 28px;
+
+}
+#submitA:hover{
+ background-color: cadetblue; /* Green */
+  color: black;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.centerDiv1 {
+    position: absolute;
+    top: 30%;
+  left: 25%;
+   width: 800px;
+  height: 300px;
+    background-color: lightblue;
+
+}
+.divForm1{
+    float: left;
+    height: 470px;
+    width: 45%;
+    padding: 0 10px;
+    }
+.divForm2{
+    float: right;
+    height: 460px;
+    width: 45%;
+    padding: 0 10px;
+    }
+input{
+    background-color: azure;
+}
+input:focus {
+  background-color: lightskyblue;
+}
